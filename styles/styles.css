@@ -1,0 +1,219 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #F0F0F0;
+}
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+    background-color:#FDECEC;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-bottom: 40px;
+}
+
+h3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    color: #000000;
+    margin: 0;
+    margin-bottom: 12px;
+
+}
+
+
+
+.about {
+  margin-top: 40px;
+  margin-left: 80px;
+  margin-right: 260px;
+  margin-bottom: 14px;
+}
+
+
+.about-site {
+  font-style: normal;
+ font-weight: 700;
+ font-size: 14px;
+ line-height: 24px;
+ color: #1E1E1E;
+}
+
+
+ h1 {
+ font-style: normal;
+ font-weight: 700;
+ font-size: 45px;
+ line-height: 24px;
+ color: #1E1E1E;
+}
+
+.about-text {
+ font-style: normal;
+ font-weight: 500;
+ font-size: 14px;
+ line-height: 24px;
+ color: #731A1A;
+}
+
+
+.dop-contact {
+ margin-left: 80px;
+}
+
+
+h3 {
+ font-style: normal;
+ font-weight: 700;
+ font-size: 22px;
+ line-height: 24px;
+ color: #0D0C0C;
+}
+
+
+.dop-cont {
+   font-style: normal;
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 24px;
+   color: #550173;
+}
+
+.i-f {
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14px;
+   line-height: 24px;
+   color: #550173;
+}
+ 
+
+.education {
+  margin-left: 80px;
+}
+
+
+.work {
+margin-left: 80px;
+}
+
+
+
+.name-work {
+ font-style: normal;
+ font-weight: 700;
+ font-size: 14px;
+ line-height: 24px;
+ color: #F9066C;
+}
+
+.name-work-2 {
+ color: #550173;
+}
+
+ .time {
+ color: #F4A2A2;  
+ }
+
+
+.work-skil {
+  color: #731A1A;
+}
+
+
+.YDFSY {
+color: #F9066C;
+}
+
+
+.prof {
+    color: #731A1A;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.aside {
+    background-color: #F387D5;
+    padding-top: 40px;
+    width: 370px;
+}
+.photo {
+    width: 370px;
+    margin-bottom: 30px;
+}
+.aside-contact {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin: 0;
+    margin-left: 40px;
+}
+.contact {
+    margin: 0;
+    margin-bottom: 30px;
+}
+.tp {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin: 0;
+    margin-left: 40px;
+}
+.t-p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #860E15;
+}
+.li-aside {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #860E15;
+    margin: 0;
+    margin-left: 12px;
+}
+.skill {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin: 0;
+}
